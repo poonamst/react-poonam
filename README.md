@@ -37,7 +37,7 @@ if (process.env.NODE_ENV !== 'production') {
 
 These are the very basic steps that you need to do to get going. Apart from these there is a lot more you can customize in this plugin. Kindly refer the reference mentioned above to know more optional details.
 
-Here is a glimpse of the warnings that you can see when you run npm start.
+Here is a glimpse of the warnings that you can see when you run npm start. Note you shall also see some warnings from the jsx-a11y plugin since it comes baked in with react projects now-a-days.
 
 ![alt text]()
 
