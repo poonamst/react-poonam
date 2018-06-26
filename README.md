@@ -6,7 +6,7 @@ Reference - https://github.com/dequelabs/react-axe
 
 1. git clone <https://github.intuit.com/Accessibility-Automation/react-linters.git>
 2. npm install
-3. npm run 
+3. npm start
 
 
 
